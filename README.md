@@ -1,4 +1,5 @@
- KultureHire-GenZ-Data-Analytics-Project
+ KultureHire GenZ Data Analytics Project
+ 
 A Complete Data Analysis Project Using Excel &amp; MySQL
 <p align="left"> <!-- Tools --> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Query-0E5C2F?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Pivot-185ABD?style=for-the-badge&logo=microsoft&logoColor=white" /> <!-- Skills --> <img src="https://img.shields.io/badge/Data%20Cleaning-FFA500?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Visualization-1F75FE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL%20Queries-FF5733?style=for-the-badge" /> </p>
 ---
