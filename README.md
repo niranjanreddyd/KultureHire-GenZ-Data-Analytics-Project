@@ -1,18 +1,18 @@
-# KultureHire-GenZ-Data-Analytics-Project
+ KultureHire-GenZ-Data-Analytics-Project
 A Complete Data Analysis Project Using Excel &amp; MySQL
 <p align="left"> <!-- Tools --> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Query-0E5C2F?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/Power%20Pivot-185ABD?style=for-the-badge&logo=microsoft&logoColor=white" /> <!-- Skills --> <img src="https://img.shields.io/badge/Data%20Cleaning-FFA500?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Visualization-1F75FE?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL%20Queries-FF5733?style=for-the-badge" /> </p>
 ---
-📌 **Project Overview**
+Project Overview
 
-This project is part of the **KultureHire Data Analytics Internship Program**, focused on analyzing survey responses from Gen Z to understand their **career aspirations, work preferences, motivations, frustrations, salary expectations, and future goals**.
+This project is part of the KultureHire Data Analytics Internship Program, focused on analyzing survey responses from Gen Z to understand their career aspirations, work preferences, motivations, frustrations, salary expectations, and future goals.
 
-The analysis was performed using **Excel** (Power Query, Power Pivot, Pivot Tables, and Dashboards) and **MySQL**.
+The analysis was performed using Excel (Power Query, Power Pivot, Pivot Tables, and Dashboards) and MySQL.
 
-The objective of this project is to extract **actionable insights** that can help employers, HR teams, and educators better understand the expectations of today’s young workforce.
+The objective of this project is to extract actionable insights that can help employers, HR teams, and educators better understand the expectations of today’s young workforce.
 
 ---
 
-## 🎯 **Key Goals of the Project**
+ 🎯 Key Goals of the Project
 
 * Identify trends in Gen Z career aspirations
 * Analyze salary expectations in the first 3 and first 5 years
@@ -24,9 +24,9 @@ The objective of this project is to extract **actionable insights** that can hel
 
 ---
 
-## 🛠️ **Tools & Technologies Used**
+ 🛠️ Tools & Technologies Used
 
-### **🔹 Excel**
+ 🔹 Excel
 
 * Power Query
 * Power Pivot
@@ -35,7 +35,7 @@ The objective of this project is to extract **actionable insights** that can hel
 * Dashboard Design
 * Data Visualization
 
-### **🔹 SQL (MySQL)**
+ 🔹 SQL (MySQL)
 
 * Data Cleaning Queries
 * Aggregation
@@ -46,7 +46,7 @@ The objective of this project is to extract **actionable insights** that can hel
 
 ---
 
-## 📁 **Project Structure**
+ 📁 Project Structure
 
 ```
 📦 KultureHire Data Analytics Project
@@ -71,39 +71,39 @@ The objective of this project is to extract **actionable insights** that can hel
 
 ---
 
-## 📂 **About Each File**
+ 📂 About Each File
 
-### 🧹 **Processed Raw Data.xlsx**
+ 🧹 Processed Raw Data.xlsx
 
 Final cleaned and transformed dataset after removing duplicates, fixing formats, handling nulls, and restructuring.
 
-### 📘 **kulturehire excel.xlsx**
+ 📘 kulturehire excel.xlsx
 
 Main Excel analysis file with pivot tables, charts, and metric calculations.
 
-### 📊 **Dashboards**
+ 📊 Dashboards
 
-* **Career Aspirations Dashboard.xlsx** – insights on ambitions & career goals
-* **Manager Aspirations Dashboard.xlsx** – expectations from managers
-* **Mission Aspirations Dashboard.xlsx** – purpose-driven preferences
-* **Learning Aspirations Dashboard.xlsx** – upskilling & education insights
+* Career Aspirations Dashboard.xlsx – insights on ambitions & career goals
+* Manager Aspirations Dashboard.xlsx – expectations from managers
+* Mission Aspirations Dashboard.xlsx – purpose-driven preferences
+* Learning Aspirations Dashboard.xlsx – upskilling & education insights
 
-### 📝 **Documentation**
+ 📝 Documentation
 
-* **5W1H Analysis.docx** – defines the project purpose
-* **GenZ.txt** – summary of survey & project background
+* 5W1H Analysis.docx – defines the project purpose
+* GenZ.txt – summary of survey & project background
 
-### 📄 **Analysis Files**
+ 📄 Analysis Files
 
-* **Que Your Career Aspirations.xlsx** – answers calculated using Excel
-* **SQL KultureHire Notepad.txt** – list of SQL questions to be solved
-* **SQL Queries.docx** – SQL queries answering each question
+* Que Your Career Aspirations.xlsx – answers calculated using Excel
+* SQL KultureHire Notepad.txt – list of SQL questions to be solved
+* SQL Queries.docx – SQL queries answering each question
 
 ---
 
-## 🧠 **Skills Gained**
+ 🧠 Skills Gained
 
-### **Excel Skills**
+ Excel Skills
 
 * Data cleaning & transformation
 * Advanced Pivot Tables
@@ -112,7 +112,7 @@ Main Excel analysis file with pivot tables, charts, and metric calculations.
 * Conditional formatting
 * Lookup formulas (VLOOKUP, XLOOKUP, INDEX-MATCH)
 
-### **SQL Skills**
+ SQL Skills
 
 * Writing optimized SELECT queries
 * Grouping & aggregation
@@ -123,7 +123,7 @@ Main Excel analysis file with pivot tables, charts, and metric calculations.
 * Salary distribution queries
 * Insights extraction using SQL logic
 
-### **Data Analytics Skills**
+ Data Analytics Skills
 
 * Understanding business questions
 * Turning raw survey data into insights
@@ -133,7 +133,7 @@ Main Excel analysis file with pivot tables, charts, and metric calculations.
 
 ---
 
-## 📌 **SQL Questions Answered in This Project**
+ 📌 SQL Questions Answered in This Project
 
 All 19 SQL questions were answered, including:
 
@@ -159,14 +159,14 @@ All 19 SQL questions were answered, including:
 
 ---
 
-## 📈 **Dashboards**
+ 📈 Dashboards
 
 Four dashboards were built to visually summarize insights:
 
-* **Career Aspirations Dashboard**
-* **Manager Aspirations Dashboard**
-* **Mission Aspirations Dashboard**
-* **Learning Aspirations Dashboard**
+* Career Aspirations Dashboard
+* Manager Aspirations Dashboard
+* Mission Aspirations Dashboard
+* Learning Aspirations Dashboard
 
 Each dashboard includes:
 
@@ -178,18 +178,18 @@ Each dashboard includes:
 
 ---
 
-## 🔍 **Project Insights (Short Summary)**
+ 🔍 Project Insights (Short Summary)
 
-* Majority of respondents prefer **remote working**.
-* Salary expectations vary significantly between **first 3 years** and **after 5 years**.
-* The most common frustration is **poor work-life balance**.
-* A large portion expects **minimum monthly salary higher than industry average**.
-* Many are interested in **education abroad** but fewer want **sponsorship**.
-* Gender influences preferences in **career motivations** and **work frustrations**.
+* Majority of respondents prefer remote working.
+* Salary expectations vary significantly between first 3 years and after 5 years.
+* The most common frustration is poor work-life balance.
+* A large portion expects minimum monthly salary higher than industry average.
+* Many are interested in education abroad but fewer want sponsorship.
+* Gender influences preferences in career motivations and work frustrations.
 
 ---
 
-## 🌟 **Conclusion**
+ 🌟 Conclusion
 
 This project demonstrates end-to-end data analytics skills using Excel and SQL:
 
@@ -202,12 +202,12 @@ This project demonstrates end-to-end data analytics skills using Excel and SQL:
 It reflects a complete analytics workflow — from raw data to insights-driven decision making.
 
 ---
-## **Author**
+ Author
 
 Niranjan Reddy Dharmavaram
 Data & Business Analyst | Excel | SQL | Power BI | Data Visualization
 
-## 🤝 **Connect**
+ 🤝 Connect
 
 If you found this project useful, feel free to ⭐ star the repository!
 For collaboration or feedback, reach out anytime.
