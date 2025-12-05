@@ -1,0 +1,13 @@
+ Clearly identify the essential materials (like solvents and catalysts) and their costs. 
+
+Develop a simple spreadsheet to compare the costs of different processes against the expected selling price of the product. 
+
+Choose one or two processes that have the best chance of success, both commercially and technically. 
+
+Start with desk-level analysis to model reactions, then move to bench-level experiments to validate those models in the lab. 
+
+Keep detailed records of all experiments, including materials used and conditions, to learn from any discrepancies between theory and practice.
+
+Use the results from the lab to refine our approach, making adjustments based on what works and what doesn’t.
+
+By following these steps, we can add structure to our R&D process and minimize unnecessary spending.
